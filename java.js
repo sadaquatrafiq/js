@@ -220,7 +220,7 @@ document.write("<br>"+"add"+" ",(number)+"<br>multiply by"+" ",(number1)+"<br>di
 var birthYear = 1997;
 var currentYear = 2023;
 var age = currentYear-birthYear;
-console.log("the age is"+age);
+console.log("the age is"+age)
 
 //Q#12
 document.write("<br>The Geometrizer");
